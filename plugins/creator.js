@@ -1,5 +1,5 @@
 let handler = function (m) {
-  this.sendContact(m.chat, '+529984907794', '👑Samu330👑', m)
+  this.sendContact(m.chat, '+50582733230', '🖤ӄǟռɛӄɨ🔥', m)
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
