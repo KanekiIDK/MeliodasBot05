@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/eMUzikliXYgLg1lyS1/giphy.gif" width="438" height="360"/>
 </p>
 
-# esu-bot
+# MeliodasBot05
 Simple WhatsApp Bot for Andriod & pc
 
 BOT BY Smu330⃟꙰
