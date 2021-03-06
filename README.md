@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://vozeli.com/post/YkzNReNVSaSVRSVVeV" width="128" height="135"/>
+<img src="https://media.giphy.com/media/eMUzikliXYgLg1lyS1/giphy.gif" width="128" height="135"/>
 </p>
 
 # esu-bot
