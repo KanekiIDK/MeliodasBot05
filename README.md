@@ -6,7 +6,7 @@
 
 #### Simple WhatsApp Bot for Andriod & pc
 
-🔥MΣᄂIӨDΛƧ❤
+## 🔥MΣᄂIӨDΛƧ❤
 
 
 ### TERMUX ✔
