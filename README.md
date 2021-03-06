@@ -20,7 +20,7 @@
 > cd MeliodasBot05
 > npm install
 ```
-###### Run👌👍
+#### Run👌👍
 ```bash
 > node . [<session name>] (session name is optional)
 ```
