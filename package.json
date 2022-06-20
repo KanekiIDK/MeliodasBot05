@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/MeliodasJAJA/MeliodasBot05q",
+  "homepage": "https://github.com/Nurutomo/wabot-aq",
   "author": {
-    "name": "MeliodasJAJA"
+    "name": "Nurutomo"
   },
   "repository": {
-    "url": "https://github.com/MeliodasJAJA/MeliodasBot05.git"
+    "url": "https://github.com/Nurutomo/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/MeliodasJAJA/MeliodasBot05/issues"
+    "url": "https://github.com/Nurutomo/wabot-aq/issues"
   },
   "license": "GPLv3",
   "dependencies": {
